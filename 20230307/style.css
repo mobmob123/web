@@ -1,0 +1,14 @@
+/* body{text-align:center;}li{text-align:left;} */
+body{text-align: center;}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+}
+td{
+    border-bottom: 1px solid blue;
+}
+ tr:nth-child(odd) { background-color: #ef8267; } 
+ tr:nth-child(even) { background-color: #efc52d; } 
+

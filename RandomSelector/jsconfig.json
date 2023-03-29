@@ -1,0 +1,6 @@
+{
+    "typeAcquisition":{
+        "include":["jquery"]
+        }
+}
+// 用於讓cscode堤供jquery建議字
